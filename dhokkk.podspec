@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   //私有库名字
   s.name         = “okkk"
   //版本
-  s.version      = “0.0.1”  
+  s.version      = “0.0.5”  
   //简介
   s.summary      = "iOS字符串类别”
 
